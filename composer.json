@@ -1,0 +1,20 @@
+{
+    "name": "jopacicdev/spintax",
+    "description": "Simple way to process spintax strings",
+    "authors": [
+        {
+            "name": "Josip Opacic",
+            "email": "josip.opacic@icloud.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jopacicdev\\Spintax": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
